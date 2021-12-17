@@ -11,3 +11,7 @@ npm install --save sequelize
 
 Sequelize, the very popular and stable promise-based Node.js ORM that has GitHub 25.36k stars, is a mapping tool, or object relational mapper, for sql databases such as Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server to convert SQL statements to javascript objects. It has strong support for transactions, relationships, lazy and anxious loading, read replication, and more.
 
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
